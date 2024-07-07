@@ -1,8 +1,7 @@
-# Assingment-2
 
 
 
-Assignment-2 Solutions 
+Solutions 
 Name-Rajat Varshney
 Uni. Roll number-22215001415
 
